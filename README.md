@@ -13,6 +13,6 @@ I’ve been diving deep into multi-agent LLM architectures, and this project is 
 
 📌 Skills involved: Multi-Agent Systems, Prompt Engineering, LLM Orchestration, OpenAI APIs, Python, AutoGen
 
-👉 Check out the code/demo: [Add your GitHub or Colab link here]
+👉 Check out the code/demo: https://github.com/sakibreja/AutoGen-Powered-Multi-Agent-System-for-Marketing-Campaign-Automation.git
 
 #GenerativeAI #LLM #AutoGen #GPT4o #MultiAgentSystems #AIinMarketing #Python #DataScience #AIProjects"
