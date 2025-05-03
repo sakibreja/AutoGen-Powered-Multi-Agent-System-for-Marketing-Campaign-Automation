@@ -1,5 +1,4 @@
 # AutoGen-Powered-Multi-Agent-System-for-Marketing-Campaign-Automation
-create a banner for this project: "
 🚀 Just built a Multi-Agent LLM System for Marketing Campaign Automation using AutoGen + GPT-4o!
 
 I’ve been diving deep into multi-agent LLM architectures, and this project is one of my favorite builds so far. Here's what it does:
@@ -15,6 +14,6 @@ I’ve been diving deep into multi-agent LLM architectures, and this project is 
 
 👉 Check out the code/demo: https://github.com/sakibreja/AutoGen-Powered-Multi-Agent-System-for-Marketing-Campaign-Automation.git
 
-#GenerativeAI #LLM #AutoGen #GPT4o #MultiAgentSystems #AIinMarketing #Python #DataScience #AIProjects"
+#GenerativeAI #LLM #AutoGen #GPT4o #MultiAgentSystems #AIinMarketing #Python #DataScience #AIProjects
 
 ![ChatGPT Image May 3, 2025, 06_16_10 PM](https://github.com/user-attachments/assets/3a809c24-2b43-4d32-ae95-4fee4e7f6427)
